@@ -1,0 +1,46 @@
+# Secrets
+.env
+
+# Virtual Env
+venv/
+*.pyenv
+.direnv/
+env/
+ENV/
+*.env
+
+# Python cache etc
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg
+*.egg-info/
+dist/
+build/
+*.so
+.ruff_cache/
+
+# Logs
+*.log
+logs/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# IDE/Editor folders
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# PostgreSQL data
+project-db-volume/
+postgres-db-volume/
+
+# Others
+*.bak
+*.tmp

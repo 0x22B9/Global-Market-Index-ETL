@@ -1,0 +1,82 @@
+[
+    {
+      "name": "Dow Jones Industrial Average",
+      "ticker": "^DJI",
+      "country": "USA",
+      "exchange": "DJI",
+      "currency": "USD",
+      "yfinance_info_field": "exchange"
+    },
+    {
+      "name": "S&P 500",
+      "ticker": "^GSPC",
+      "country": "USA",
+      "exchange": "SNP",
+      "currency": "USD",
+      "yfinance_info_field": "exchange"
+    },
+    {
+      "name": "Nasdaq Composite",
+      "ticker": "^IXIC",
+      "country": "USA",
+      "exchange": "NMS",
+      "currency": "USD",
+      "yfinance_info_field": "exchange"
+    },
+    {
+      "name": "DAX Performance Index",
+      "ticker": "^GDAXI",
+      "country": "Germany",
+      "exchange": "GER",
+      "currency": "EUR",
+      "yfinance_info_field": "exchange"
+    },
+    {
+      "name": "CAC 40",
+      "ticker": "^FCHI",
+      "country": "France",
+      "exchange": "PAR",
+      "currency": "EUR",
+      "yfinance_info_field": "exchange"
+    },
+    {
+      "name": "FTSE 100",
+      "ticker": "^FTSE",
+      "country": "UK",
+      "exchange": "LSE",
+      "currency": "GBP",
+      "yfinance_info_field": "exchange"
+    },
+    {
+      "name": "Shanghai Composite Index",
+      "ticker": "000001.SS",
+      "country": "China",
+      "exchange": "SHH",
+      "currency": "CNY",
+      "yfinance_info_field": "exchange"
+    },
+    {
+      "name": "Nikkei 225",
+      "ticker": "^N225",
+      "country": "Japan",
+      "exchange": "NIM",
+      "currency": "JPY",
+      "yfinance_info_field": "exchange"
+    },
+    {
+      "name": "Nifty 50",
+      "ticker": "^NSEI",
+      "country": "India",
+      "exchange": "NSI",
+      "currency": "INR",
+      "yfinance_info_field": "exchange"
+    },
+    {
+      "name": "MSCI World Index",
+      "ticker": "URTH",
+      "country": "World",
+      "exchange": "PCX",
+      "currency": "USD",
+      "yfinance_info_field": "exchange"
+    }
+  ]

@@ -90,12 +90,12 @@ graph LR
     J -- Ensures Schema & Upserts --> N[quotes Table];
     L --> J;
 
-    style F fill:#f9f,stroke:#333,stroke-width:2px
-    style I fill:#f9f,stroke:#333,stroke-width:2px
-    style L fill:#ccf,stroke:#333,stroke-width:2px
-    style M fill:#ccf,stroke:#333,stroke-width:2px
-    style N fill:#ccf,stroke:#333,stroke-width:2px
-    style K fill:#FFCC99,stroke:#333,stroke-width:2px
+    style F fill:#D1E8FF,stroke:#333,stroke-width:2px,color:#000
+    style I fill:#D1E8FF,stroke:#333,stroke-width:2px,color:#000
+    style L fill:#B3D9FF,stroke:#333,stroke-width:2px,color:#000
+    style M fill:#B3D9FF,stroke:#333,stroke-width:2px,color:#000
+    style N fill:#B3D9FF,stroke:#333,stroke-width:2px,color:#000
+    style K fill:#FFD699,stroke:#333,stroke-width:2px,color:#000
 ```
 
 ## 5. Tech Stack
